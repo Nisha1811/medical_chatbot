@@ -1,0 +1,21 @@
+streamlit==1.35.0
+
+# LangChain (compatible versions)
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-core==0.1.46
+
+# Groq LLM
+langchain-groq==0.1.4
+
+# Vector DB
+faiss-cpu==1.7.4
+
+# Embeddings
+sentence-transformers==2.6.1
+
+# PDF loader
+pypdf==4.2.0
+
+# Optional (good practice)
+python-dotenv==1.0.1
