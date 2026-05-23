@@ -5,7 +5,7 @@ from dataclasses import dataclass
 from pathlib import Path
 
 import streamlit as st
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_groq import ChatGroq
 from langchain_text_splitters import RecursiveCharacterTextSplitter
