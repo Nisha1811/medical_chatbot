@@ -1,18 +1,8 @@
-streamlit==1.35.0
-
-# LangChain
-langchain==0.1.16
-langchain-community==0.0.34
-langchain-core==0.1.46
-langchain-groq==0.1.4
-
-# Vector search and embeddings
-faiss-cpu==1.7.4
-sentence-transformers==2.6.1
-scikit-learn>=1.4
-
-# PDF loading
-pypdf==4.2.0
-
-# Local environment support
-python-dotenv==1.0.1
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-groq
+sentence-transformers
+faiss-cpu
+pypdf
